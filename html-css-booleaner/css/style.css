@@ -41,8 +41,7 @@ table{
     text-align: left;
 }
 
- .prima-parte-tabella
- {
+ .prima-parte-tabella{
     background-color: rgb(38, 177, 232);
     color: white;
  }
@@ -51,7 +50,28 @@ table{
     width: 50%;
  }
 
- .tabella-background-chiaro
- {
+ .tabella-background-chiaro{
     background-color: aqua;
+ }
+
+ h3{
+    color: grey;
+ }
+
+#didascalia-foto {
+    padding: 5px;
+    color: white;
+    text-align: left;
+    width: 250px;
+    height: 150px;
+    font-size: 20px;
+ }
+
+ .art1{
+    margin-bottom: 15px;
+    background-image: url(../img/img/graph.jpg);
+ }
+
+ .art2{
+    background-image: url(../img/img/monitor.jpg);
  }
