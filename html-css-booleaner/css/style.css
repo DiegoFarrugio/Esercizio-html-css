@@ -10,3 +10,48 @@
     height: 90px;
     padding: 10px;
  }
+
+ .scritta-grigio-normale{
+    color: grey;
+ }
+
+ .scritta-grigio-piccola{
+    color: grey;
+    font-size: 12px;
+ }
+
+ .padding{
+    padding-top: 20px;
+ }
+
+ .autori-foto{
+    font-size: 12px;
+ }
+
+ .evidenziato{
+    background-color: yellow;
+ }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.posizionamento-titoli{
+    text-align: left;
+}
+
+ .prima-parte-tabella
+ {
+    background-color: rgb(38, 177, 232);
+    color: white;
+ }
+
+ .th-modificato {
+    width: 50%;
+ }
+
+ .tabella-background-chiaro
+ {
+    background-color: aqua;
+ }
